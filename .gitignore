@@ -1,13 +1,3 @@
-## Directories created by Ant build file
-build/
-db/
-distr/
-junit/
-logs/
-publish/
-repos/
-derby.log
-
 ## Java Compiled/Package Files##
 *.class
 *.jar
